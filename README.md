@@ -6,25 +6,23 @@
 </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/akash-sharma-0251051a1">
+  <a href="https://www.linkedin.com/in/akashhhh">
     <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Akasharma18">
+  <a href="https://twitter.com/Mrpatsyy">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
-  <a href="https://www.instagram.com/im_perfect13o7/?hl=en">
+  <a href="https://www.instagram.com/mrpatsyy">
     <img src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://hashnode.com/@akash1307">
-    <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
   <br>
   <img src="https://slackmojis.com/emojis/11401-among-us-dance/download" width="30"/>
-  <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
+  <a href="https://akashh.netlify.app/#" alt="Portfolio">
   <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/>
   </a>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=akash-1318&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
