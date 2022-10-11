@@ -39,9 +39,9 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a frontend developer and contributing to frontend for building web applications.
-- 🧑🏻‍💻 Currently learning React and Backend.
+- 🧑🏻‍💻 Currently learning Node and Backend.
 - :seedling: Exploring Technical Content Writing.
-- 🤩 : In my free time, I love to watch anime.
+- 🤩 : In my free time, I do sketch.
 - ⚡️ Fun fact: I started coding to be a Hacker but ended up being a developer.
 
 ---
