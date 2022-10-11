@@ -1,23 +1,96 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Hi! I'm a Front-end web developer based in Delhi, India. I'm passionate about developing websites and working on new technologies.</h3>
+<div id="header" align="center">
+  <h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Akash+here...;nice+to+see+you!&center=true&size=30">
+  </a>
+</h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/akash-sharma-0251051a1">
+    <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Akasharma18">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://www.instagram.com/im_perfect13o7/?hl=en">
+    <img src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://hashnode.com/@akash1307">
+    <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <br>
+  <img src="https://slackmojis.com/emojis/11401-among-us-dance/download" width="30"/>
+  <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
+  <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/>
+  </a>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=akash-1318&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+<div align="center"> -->
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakash33&label=Profile%20views&color=0e75b6&style=flat" alt="mrakash33" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrakash33" alt="mrakash33" /></a> </p>
+### :man_technologist: About Me :
 
-- 👨‍💻 All of my projects are available at [akashh.netlify.app](akashh.netlify.app)
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a frontend developer and contributing to frontend for building web applications.
+- 🧑🏻‍💻 Currently learning React and Backend.
+- :seedling: Exploring Technical Content Writing.
+- 🤩 : In my free time, I love to watch anime.
+- ⚡️ Fun fact: I started coding to be a Hacker but ended up being a developer.
 
-- 📫 How to reach me **akashkumarchourasiya@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="materailUI" alt="materailUI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-1318&theme=radical" alt="Akash Sharma Github Stats" />
+  </p> 
+   <p align='center'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=akash-1318&count_private=true&theme=radical"/>
 </p>
+  <p align='center'>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=akash-1318&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  
+  ---
+  
+  ### :writing_hand: Blog Posts :
+  <!-- BLOG-POST-LIST:START -->
+- ["Synchronous and Asynchronous programming"](https://knightdev.hashnode.dev/synchronous-and-asynchronous-programming-in-javascript)
+- ["This keyword in Javascript"](https://knightdev.hashnode.dev/this-keyword-in-javascript)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+➡️ [more blog posts...](https://hashnode.com/@akash1307)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrakash33&show_icons=true&locale=en&layout=compact" alt="mrakash33" /></p>
+<div align="center">
+  
+[![](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true&bg_color=black&title_color=cyan&text_color=cyan)](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
+  
+ 
+ ![dino](https://user-images.githubusercontent.com/72180173/147874434-07a7880a-c659-47ab-bbbc-d564bb10bb3f.gif)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrakash33&show_icons=true&locale=en" alt="mrakash33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrakash33&" alt="mrakash33" /></p>
+Watch my contribution graph 🐍
+ ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/akash-1318/akash-1318/master/snake.svg)
+  
+  </div>
